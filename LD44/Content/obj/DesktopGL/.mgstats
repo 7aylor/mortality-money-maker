@@ -1,0 +1,17 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/7aylor/Desktop/LD44/LD44/Content/../../Art/LifeTaker.png","C:/Users/7aylor/Desktop/LD44/LD44/Content/bin/DesktopGL/LifeTaker.xnb","TextureProcessor","Texture2DContent",222,1109,0.1346826
+"C:/Users/7aylor/Desktop/LD44/LD44/Content/../../Art/LifeTakerEating.png","C:/Users/7aylor/Desktop/LD44/LD44/Content/bin/DesktopGL/LifeTakerEating.xnb","TextureProcessor","Texture2DContent",239,1109,0.0169432
+"C:/Users/7aylor/Desktop/LD44/LD44/Content/../../Art/slimeball.png","C:/Users/7aylor/Desktop/LD44/LD44/Content/bin/DesktopGL/slimeball.xnb","TextureProcessor","Texture2DContent",106,341,0.0159492
+"C:/Users/7aylor/Desktop/LD44/LD44/Content/Corpse.png","C:/Users/7aylor/Desktop/LD44/LD44/Content/bin/DesktopGL/Corpse.xnb","TextureProcessor","Texture2DContent",132,1109,0.0120179
+"C:/Users/7aylor/Desktop/LD44/LD44/Content/Enemy1.png","C:/Users/7aylor/Desktop/LD44/LD44/Content/bin/DesktopGL/Enemy1.xnb","TextureProcessor","Texture2DContent",163,1109,0.0109685
+"C:/Users/7aylor/Desktop/LD44/LD44/Content/font.spritefont","C:/Users/7aylor/Desktop/LD44/LD44/Content/bin/DesktopGL/font.xnb","FontDescriptionProcessor","SpriteFontContent",2008,70673,0.1924825
+"C:/Users/7aylor/Desktop/LD44/LD44/Content/ground.png","C:/Users/7aylor/Desktop/LD44/LD44/Content/bin/DesktopGL/Ground.xnb","TextureProcessor","Texture2DContent",125,1109,0.0070077
+"C:/Users/7aylor/Desktop/LD44/LD44/Content/Life.png","C:/Users/7aylor/Desktop/LD44/LD44/Content/bin/DesktopGL/Life.xnb","TextureProcessor","Texture2DContent",102,341,0.0079764
+"C:/Users/7aylor/Desktop/LD44/LD44/Content/LifeTakerUsed.png","C:/Users/7aylor/Desktop/LD44/LD44/Content/bin/DesktopGL/SpikesUsed.xnb","TextureProcessor","Texture2DContent",187,1109,0.0069836
+"C:/Users/7aylor/Desktop/LD44/LD44/Content/Pixel.png","C:/Users/7aylor/Desktop/LD44/LD44/Content/bin/DesktopGL/Pixel.xnb","TextureProcessor","Texture2DContent",68,89,0.0089777
+"C:/Users/7aylor/Desktop/LD44/LD44/Content/planet.png","C:/Users/7aylor/Desktop/LD44/LD44/Content/bin/DesktopGL/Planet.xnb","TextureProcessor","Texture2DContent",492,16469,0.015958
+"C:/Users/7aylor/Desktop/LD44/LD44/Content/Player.png","C:/Users/7aylor/Desktop/LD44/LD44/Content/bin/DesktopGL/Player.xnb","TextureProcessor","Texture2DContent",135,1109,0.0060176
+"C:/Users/7aylor/Desktop/LD44/LD44/Content/sfx_enemy.wav","C:/Users/7aylor/Desktop/LD44/LD44/Content/bin/DesktopGL/sfx_enemy.xnb","SoundEffectProcessor","SoundEffectContent",101420,101481,0.2044923
+"C:/Users/7aylor/Desktop/LD44/LD44/Content/sfx_lifetaker.wav","C:/Users/7aylor/Desktop/LD44/LD44/Content/bin/DesktopGL/sfx_lifetaker.xnb","SoundEffectProcessor","SoundEffectContent",272940,273001,0.2591325
+"C:/Users/7aylor/Desktop/LD44/LD44/Content/sfx_pickup.wav","C:/Users/7aylor/Desktop/LD44/LD44/Content/bin/DesktopGL/sfx_pickup.xnb","SoundEffectProcessor","SoundEffectContent",143404,143465,0.3881855
+"C:/Users/7aylor/Desktop/LD44/LD44/Content/sfx_throw.wav","C:/Users/7aylor/Desktop/LD44/LD44/Content/bin/DesktopGL/sfx_throw.xnb","SoundEffectProcessor","SoundEffectContent",102444,102505,0.3107218

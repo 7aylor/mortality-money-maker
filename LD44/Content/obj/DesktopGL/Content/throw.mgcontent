@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/7aylor/Desktop/LD44/LD44/Content/throw.ogg</SourceFile>
+  <SourceTime>2019-04-29T14:24:51.0216757-07:00</SourceTime>
+  <DestFile>C:/Users/7aylor/Desktop/LD44/LD44/Content/bin/DesktopGL/Content/throw.xnb</DestFile>
+  <DestTime>2019-04-29T18:28:13.7195594-07:00</DestTime>
+  <Importer>OggImporter</Importer>
+  <ImporterTime>2018-12-08T08:35:54-08:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2018-12-08T08:35:54-08:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/7aylor/Desktop/LD44/LD44/Content/bin/DesktopGL/Content/throw.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>

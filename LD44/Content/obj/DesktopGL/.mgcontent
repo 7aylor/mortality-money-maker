@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/7aylor/Desktop/LD44/LD44/Content/../../Art/LifeTaker.png</File>
+    <File>C:/Users/7aylor/Desktop/LD44/LD44/Content/../../Art/LifeTakerEating.png</File>
+    <File>C:/Users/7aylor/Desktop/LD44/LD44/Content/../../Art/slimeball.png</File>
+    <File>C:/Users/7aylor/Desktop/LD44/LD44/Content/Corpse.png</File>
+    <File>C:/Users/7aylor/Desktop/LD44/LD44/Content/Enemy1.png</File>
+    <File>C:/Users/7aylor/Desktop/LD44/LD44/Content/font.spritefont</File>
+    <File>C:/Users/7aylor/Desktop/LD44/LD44/Content/ground.png</File>
+    <File>C:/Users/7aylor/Desktop/LD44/LD44/Content/Life.png</File>
+    <File>C:/Users/7aylor/Desktop/LD44/LD44/Content/LifeTakerUsed.png</File>
+    <File>C:/Users/7aylor/Desktop/LD44/LD44/Content/Pixel.png</File>
+    <File>C:/Users/7aylor/Desktop/LD44/LD44/Content/planet.png</File>
+    <File>C:/Users/7aylor/Desktop/LD44/LD44/Content/Player.png</File>
+    <File>C:/Users/7aylor/Desktop/LD44/LD44/Content/sfx_enemy.wav</File>
+    <File>C:/Users/7aylor/Desktop/LD44/LD44/Content/sfx_lifetaker.wav</File>
+    <File>C:/Users/7aylor/Desktop/LD44/LD44/Content/sfx_pickup.wav</File>
+    <File>C:/Users/7aylor/Desktop/LD44/LD44/Content/sfx_throw.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>LifeTaker.png</File>
+    <File>LifeTakerEating.png</File>
+    <File>slimeball.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>Ground.png</File>
+    <File xsi:nil="true" />
+    <File>SpikesUsed.png</File>
+    <File xsi:nil="true" />
+    <File>Planet.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
